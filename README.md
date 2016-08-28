@@ -4,7 +4,7 @@
 
 Virtual game of rock paper scissors, using a camera!
 
-This repository contains the source code for training the feed-forward neural network as well as the GUI as seen above.
+This repository contains the source code for training the feed-forward neural network using the [Encog](http://www.heatonresearch.com/encog/) library, as well as the GUI as seen above.
 
 ## Installation
 
@@ -24,10 +24,10 @@ To install openCV, this depends on your IDE. For basic install instructions for 
 
 ## Training
 
-To train a new neural network, first set the correct file paths for the training data in [Train.java](). Running this
+To train a new neural network, first set the correct file paths for the training data in [Train.java](https://github.com/maheratashfaraz/RockPaperScissors/blob/master/src/main/neural/Train.java). Running this
 script will train a new neural network for you to use in for recognition.
 
 ## GUI
 
-To run the GUI, run the [GUIMain.java](). If you changed the name of the neural network file, you must change the file path
+To run the GUI, run the [GUIMain.java](https://github.com/maheratashfaraz/RockPaperScissors/blob/master/src/main/sample/GUIMain.java). If you changed the name of the neural network file, you must change the file path
 at the top of the class.
