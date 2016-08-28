@@ -1,5 +1,7 @@
 # RockPaperScissors
 
+![Demo gif](https://github.com/maheratashfaraz/RockPaperScissors/blob/master/images/rockpaperscissors_demo.gif?raw=true)
+
 Virtual game of rock paper scissors, using a camera!
 
 This repository contains the source code for training the feed-forward neural network as well as the GUI as seen above.
